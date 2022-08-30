@@ -31,7 +31,7 @@ Line Notify 使用簡介：
 
 爬蟲簡介：
 
-* [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
+* [Requests: HTTP for Humans](https://requests.readthedocs.io/en/latest/user/quickstart/)
 * [Beautiful Soup 4.2.0 文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
 
 使用Python繪製地圖：
